@@ -1,0 +1,78 @@
+Random Forest Accuracy
+The best test accuracy is 0.509
+The best test neg log loss is -1.140977108919594
+The best parameters are {'criterion': 'entropy', 'max_depth': 5, 'max_features': 8, 'n_estimators': 300}
+The top five results have training accuracy [array([0.54809232]), array([0.54942586]), array([0.54866662]), array([0.54887051]), array([0.54849973])]
+The top five results have test accuracy [array([0.509]), array([0.50866667]), array([0.50833333]), array([0.508]), array([0.50766667])]
+The top five results have training neg log loss [array([-1.07315398]), array([-1.07201113]), array([-1.0772007]), array([-1.07734807]), array([-1.07297116])]
+The top five results have test neg log loss [array([-1.14097711]), array([-1.14194726]), array([-1.14224232]), array([-1.14285444]), array([-1.14075336])]
+
+
+Random Forest Log Loss
+The best test accuracy is 0.495
+The best test neg log loss is -1.1376069430926394
+The best parameters are {'criterion': 'entropy', 'max_depth': 8, 'max_features': 4, 'n_estimators': 400}
+The top five results have training accuracy [array([0.65187064]), array([0.64377829]), array([0.65198177]), array([0.65077814]), array([0.65174158])]
+The top five results have test accuracy [array([0.495]), array([0.494]), array([0.5]), array([0.49816667]), array([0.49316667])]
+The top five results have training neg log loss [array([-0.92306819]), array([-0.93951218]), array([-0.92417214]), array([-0.92404711]), array([-0.93416413])]
+The top five results have test neg log loss [array([-1.13760694]), array([-1.13782292]), array([-1.13798134]), array([-1.13810879]), array([-1.13815628])]
+
+
+GBT Accuracy
+The best test accuracy is 0.5036666666666667
+The best test neg log loss is -1.170355560218952
+The best parameters are {'learning_rate': 0.01, 'max_depth': 4, 'max_features': 8, 'n_estimators': 100}
+The top five results have training accuracy [array([0.56101863]), array([0.59266673]), array([0.57631491, 0.6162408 ]), array([], dtype=float64), array([0.5895927 , 0.59035193, 0.56120399, 0.59272223])]
+The top five results have test accuracy [array([0.50366667]), array([0.5035]), array([0.50316667, 0.50316667]), array([], dtype=float64), array([0.50283333, 0.50283333, 0.50283333, 0.50283333])]
+The top five results have training neg log loss [array([-1.11937302]), array([-1.02092347]), array([-1.05764071, -0.97378628]), array([], dtype=float64), array([-1.02582284, -1.02314165, -1.12040631, -1.0206348 ])]
+The top five results have test neg log loss [array([-1.17035556]), array([-1.13671483]), array([-1.14270369, -1.13707933]), array([], dtype=float64), array([-1.13667413, -1.13606756, -1.17174482, -1.13704547])]
+
+
+GBT Log Loss
+The best test accuracy is 0.5023333333333333
+The best test neg log loss is -1.1356349244764097
+The best parameters are {'learning_rate': 0.01, 'max_depth': 4, 'max_features': 5, 'n_estimators': 400}
+The top five results have training accuracy [array([0.60142586]), array([0.60464804]), array([0.60411082]), array([0.60068503]), array([0.61483325])]
+The top five results have test accuracy [array([0.50233333]), array([0.5015]), array([0.502]), array([0.502]), array([0.50233333])]
+The top five results have training neg log loss [array([-1.00108175]), array([-0.99565817]), array([-0.99683994]), array([-1.00411143]), array([-0.97587653])]
+The top five results have test neg log loss [array([-1.13563492]), array([-1.13572223]), array([-1.13593939]), array([-1.13603631]), array([-1.13633085])]
+
+
+Random Forest Accuracy
+The best test accuracy is 0.5086666666666667
+The best test neg log loss is -1.1438589173145055
+The best parameters are {'criterion': 'entropy', 'max_depth': 5, 'max_features': 10, 'n_estimators': 100}
+The top five results have training accuracy [array([0.54964834]), array([0.54918483]), array([0.5502412]), array([0.54883341, 0.54935197, 0.54951854]), array([], dtype=float64)]
+The top five results have test accuracy [array([0.50866667]), array([0.5085]), array([0.508]), array([0.50783333, 0.50783333, 0.50783333]), array([], dtype=float64)]
+The top five results have training neg log loss [array([-1.0719438]), array([-1.07249441]), array([-1.0719165]), array([-1.07259361, -1.07203268, -1.07232456]), array([], dtype=float64)]
+The top five results have test neg log loss [array([-1.14385892]), array([-1.1417771]), array([-1.14372753]), array([-1.14105562, -1.14141254, -1.142106  ]), array([], dtype=float64)]
+
+
+Random Forest Log Loss
+The best test accuracy is 0.494
+The best test neg log loss is -1.1389155577568673
+The best parameters are {'criterion': 'entropy', 'max_depth': 8, 'max_features': 3, 'n_estimators': 200}
+The top five results have training accuracy [array([0.64442625]), array([0.65177858]), array([0.64490778]), array([0.65044494]), array([0.64298251])]
+The top five results have test accuracy [array([0.49783333]), array([0.494]), array([0.4945]), array([0.49533333]), array([0.49316667])]
+The top five results have training neg log loss [array([-0.94052364]), array([-0.92371139]), array([-0.94002956]), array([-0.93414987]), array([-0.94818488])]
+The top five results have test neg log loss [array([-1.13831794]), array([-1.13891556]), array([-1.13905495]), array([-1.13905668]), array([-1.13910425])]
+
+
+GBT accuracy
+The best test accuracy is 0.502
+The best test neg log loss is -1.1356922208852724
+The best parameters are {'learning_rate': 0.01, 'max_depth': 4, 'max_features': 7, 'n_estimators': 400}
+The top five results have training accuracy [array([0.56035213]), array([0.58933331, 0.59168514]), array([], dtype=float64), array([0.56029661]), array([0.62036997, 0.61727744])]
+The top five results have test accuracy [array([0.504]), array([0.50366667, 0.50366667]), array([], dtype=float64), array([0.50333333]), array([0.50316667, 0.50316667])]
+The top five results have training neg log loss [array([-1.12036827]), array([-1.02586076, -1.02198642]), array([], dtype=float64), array([-1.1224959]), array([-0.96881894, -0.97317517])]
+The top five results have test neg log loss [array([-1.17161192]), array([-1.13593943, -1.1371181 ]), array([], dtype=float64), array([-1.17353588]), array([-1.13799751, -1.13665398])]
+
+
+GBT Log Loss
+The best test accuracy is 0.5025
+The best test neg log loss is -1.1358452093229927
+The best parameters are {'learning_rate': 0.01, 'max_depth': 4, 'max_features': 6, 'n_estimators': 400}
+The top five results have training accuracy [array([0.60325908]), array([0.60451827]), array([0.60183317]), array([0.60548137]), array([0.60525925])]
+The top five results have test accuracy [array([0.5025]), array([0.503]), array([0.502]), array([0.50066667]), array([0.50083333])]
+The top five results have training neg log loss [array([-0.99791041]), array([-0.99649361]), array([-1.00064961]), array([-0.99551035]), array([-0.99498857])]
+The top five results have test neg log loss [array([-1.13584521]), array([-1.13606108]), array([-1.13608344]), array([-1.13613699]), array([-1.13635835])]
